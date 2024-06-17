@@ -1,0 +1,4 @@
+- Hi, I’m @BOLT-3 and my name is Daksh Kumbhar
+- I’m interested in Chemistry, python coding and learning new skills
+- I’m currently learning BSc in Chemistry
+- I want to develop a hobby in python
